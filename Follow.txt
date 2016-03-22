@@ -1,0 +1,29 @@
+D  : id  num  if  $  int  return  ;  void  (  {  while 
+E  : ]  ;  )  , 
+Se  : ]  ;  )  , 
+F  : *  +  )  >=  /  ,  -  ==  <=  !=  ;  ]  >  < 
+Ar  : ) 
+A  : id  num  ( 
+C  : *  +  )  >=  /  ,  -  ==  <=  !=  ;  ]  >  < 
+Cs  : id  else  num  if  ;  return  }  (  {  while 
+L  : id  num  if  $  int  return  ;  void  (  {  while 
+M  : id  num  ( 
+Sl  : id  num  if  return  ;  (  }  {  while 
+Is  : id  else  num  if  ;  return  }  (  {  while 
+Ae  : ==  <=  !=  ;  ]  +  )  >=  >  ,  -  < 
+T  : *  +  )  >=  /  ,  -  ==  <=  !=  ;  ]  >  < 
+Ld  : id  num  int  if  ;  return  void  (  {  while 
+V  : *  +  )  >=  /  ,  -  ==  <=  !=  ]  ;  >  =  < 
+Es  : id  else  num  if  ;  return  }  (  {  while 
+Rs  : id  else  num  if  ;  return  }  (  {  while 
+P  : $ 
+Ps  : ) 
+S  : id  else  num  if  ;  return  }  (  {  while 
+R  : id  num  ( 
+Al  : )  , 
+Ts  : id  main 
+Pa  : )  , 
+Pl  : )  , 
+Vd  : id  num  if  $  int  return  ;  void  (  {  while 
+Fn  : id  num  if  $  int  return  ;  void  (  {  while 
+Ss  : id  else  num  if  ;  return  }  (  {  while 

@@ -1,0 +1,29 @@
+D  : int  void 
+Se  : id  num  ( 
+E  : id  num  ( 
+F  : id  num  ( 
+Ar  : id  num  empty  ( 
+A  : +  - 
+C  : id 
+L  : int  void 
+Cs  : { 
+M  : *  / 
+Sl  : id  num  int  if  ;  return  void  (  {  while 
+Is  : while 
+Ae  : id  num  ( 
+T  : id  num  ( 
+Ld  : int  void 
+Es  : id  num  ;  ( 
+Rs  : return 
+V  : id 
+Ps  : int  void 
+P  : int  void 
+S  : id  num  int  if  ;  return  void  (  {  while 
+R  : ==  <=  !=  +  >=  >  -  < 
+Al  : id  num  ( 
+Ts  : int  void 
+Pa  : int  void 
+Pl  : int  void 
+Vd  : int  void 
+Fn  : int  void 
+Ss  : if 
